@@ -1,4 +1,21 @@
-[![Header](https://github.com/kuvaldax/kuvaldax/blob/main/assets/mr-robot-12097.jpg)](https://github.com/kuvaldax/kuvaldax/)
+<div align="center">
+
+![Glitch Header](https://i.ibb.co/3rz60qz/glitch-skull.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=00f6ff&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue%2BNuxt+Enjoyer;Startup+Maniac;110kg+Bench+Press)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=tokyo-night&area=true&hide_border=true&custom_title=↯+NEURAL+ACTIVITY+FEED+↯&bg_color=0d0d0d&color=00f6ff&line=00f6ff&point=ffffff)](https://github.com/jgphilpott/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<img src="https://moe-counter.glitch.me/get/@SharapaGorg?theme=rule34" width="100%">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## Sup! 👋
 ##
@@ -12,12 +29,8 @@
 ## 🎯 Goal: To become a professional backend developer
 ## "Code is poetry in motion"
 
-Latest Youtube Videos
+## Social Media:
 
-### Language and Tools
-![Javascript](https://img.shields.io/badge/-Javascript-090909?style-for-the-badge&logo-JavaScript& logoColor=E90540)
-![.Net](https://img.shields.io/badge/-Framework-090909?style-for-the-badge&logo-.net&logoColor-E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909? style-for-the-badge&logo=C%2b%2b&logoColor-6296CC)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style-for-the-badge&logo-firebase&logocolor-18C520)
-
-Follow Me
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alexeyshpavda)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
