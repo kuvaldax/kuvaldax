@@ -2,19 +2,7 @@
 
 ![Glitch Header](https://i.ibb.co/3rz60qz/glitch-skull.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=00f6ff&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue%2BNuxt+Enjoyer;Startup+Maniac;110kg+Bench+Press)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=tokyo-night&area=true&hide_border=true&custom_title=↯+NEURAL+ACTIVITY+FEED+↯&bg_color=0d0d0d&color=00f6ff&line=00f6ff&point=ffffff)](https://github.com/jgphilpott/github-readme-activity-graph)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<img src="https://moe-counter.glitch.me/get/@SharapaGorg?theme=rule34" width="100%">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## Sup! 👋
@@ -28,6 +16,21 @@
 ## 💼 Open to: Internships and junior developer positions
 ## 🎯 Goal: To become a professional backend developer
 ## "Code is poetry in motion"
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=tokyo-night&area=true&hide_border=true&custom_title=↯+NEURAL+ACTIVITY+FEED+↯&bg_color=0d0d0d&color=00f6ff&line=00f6ff&point=ffffff)](https://github.com/jgphilpott/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 
 ## Social Media:
 
